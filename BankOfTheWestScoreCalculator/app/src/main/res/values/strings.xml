@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BankOfTheWestScoreCalculator</string>
+    <string-array name="expense_array">
+        <item>Rent</item>
+        <item>Utilities</item>
+        <item>Essentials</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+</resources>
